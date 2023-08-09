@@ -1,5 +1,11 @@
+using HospitalBook.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+//DbContext Configuration
+builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("sql")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

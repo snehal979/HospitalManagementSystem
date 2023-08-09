@@ -7,7 +7,7 @@ namespace HospitalBook.Models
     {
         [Key]
         public int LocationId { get; set; }
-       
+        [Required]
         public string LocationName { get; set; }
         //Many to Many Relation
         //relationship

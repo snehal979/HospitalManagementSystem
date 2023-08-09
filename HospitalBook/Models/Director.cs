@@ -6,6 +6,7 @@ namespace HospitalBook.Models
     {
         [Key]
         public int DirectorId { get; set; }
+        [Required]
         public String DirectorName { get; set; }
 
         //One to Many relation
