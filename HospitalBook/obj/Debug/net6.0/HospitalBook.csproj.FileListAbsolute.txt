@@ -1,0 +1,8 @@
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.csproj.AssemblyReference.cache
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.AssemblyInfoInputs.cache
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.AssemblyInfo.cs
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.csproj.CoreCompileInputs.cache
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.MvcApplicationPartsAssemblyInfo.cache
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.RazorAssemblyInfo.cache
+E:\AllNewProject\Asp.NetCore\Hospital\HospitalBook\obj\Debug\net6.0\HospitalBook.RazorAssemblyInfo.cs
